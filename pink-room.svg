@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="420" viewBox="0 0 840 420" role="img" aria-label="Gatinho na janela sob um céu rosa estrelado">
+<defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#dba7c7"/><stop offset="1" stop-color="#fce2ed"/></linearGradient></defs>
+<rect width="840" height="420" rx="12" fill="#fff4f8"/>
+<rect x="40" y="27" width="760" height="333" rx="140" fill="url(#sky)"/>
+<circle cx="617" cy="108" r="38" fill="#fff7ed"/>
+<g fill="#fff8fc"><path d="M182 70l4 12 12 4-12 4-4 12-4-12-12-4 12-4zM452 51l3 9 9 3-9 3-3 9-3-9-9-3 9-3zM712 170l3 9 9 3-9 3-3 9-3-9-9-3 9-3z"/><circle cx="299" cy="117" r="3"/><circle cx="525" cy="173" r="3"/><circle cx="105" cy="170" r="3"/><circle cx="689" cy="65" r="2"/>
+<path d="M40 267q65-44 133-9 78-40 132 0 82-38 148 0 72-40 140 0 84-39 207-9v111H40z" fill="#f4cede"/>
+<path d="M40 310q110-46 230-4 112-43 225 0 140-42 305-3v57H40z" fill="#edbdd3"/></g>
+<path d="M420 27v333M40 211h760" stroke="#fff4f8" stroke-width="14"/>
+<rect x="22" y="354" width="796" height="19" rx="8" fill="#d69ab6"/>
+<rect x="22" y="373" width="796" height="10" rx="5" fill="#e8bad0"/>
+<path d="M525 340q103 2 108-32 4-23-23-23" fill="none" stroke="#fff8fc" stroke-width="23" stroke-linecap="round"/>
+<ellipse cx="467" cy="329" rx="85" ry="25" fill="#fff8fc"/>
+<path d="M366 319l-3-55 27 20q17-5 34 0l24-20-3 55q-5 28-40 28t-39-28" fill="#fff8fc"/>
+<path d="M372 279l2 23 12-13m51-10-2 23-12-13" fill="#efb6d0"/>
+<path d="M383 316q6 7 12 0m20 0q6 7 12 0" fill="none" stroke="#a46a87" stroke-width="3" stroke-linecap="round"/>
+<path d="M401 325h8l-4 4z" fill="#d794b4"/>
+<g fill="#eeafcb"><rect x="99" y="310" width="40" height="43" rx="7"/><path d="M139 318q27-1 22 17-4 12-22 6v-7q15 5 15-5 0-7-15-4z"/>
+<path d="M695 351h44l8-43h-60z"/></g>
+<g stroke="#a28091" stroke-width="4" stroke-linecap="round" fill="none"><path d="M718 311v-47m0 26q-28-2-23-20 22-3 23 20m0-11q27-3 23-21-23-1-23 21"/></g>
+</svg>
